@@ -1,0 +1,7 @@
+Max Value of Thrust is: -10.35 | Min Value of Thrust is: 1.11
+Mean Thrust is: -0.862
+Standard Deviation of Thrust is: 2.542
+
+Max Value of Torque is: -0.33 | Min Value of Torque is: 0.78
+Mean Torque is: 0.113
+Standard Deviation of Torque is: 0.199
